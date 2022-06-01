@@ -1,0 +1,17 @@
+body {
+    background-color:green;
+}
+
+#header-nav {
+    background-color: aqua;
+}
+
+#navlist {
+    margin-top: 8px;
+    margin-bottom: -8px;
+    background-color: aquamarine;
+}
+
+.hit {
+    background-color: bisque;
+}
